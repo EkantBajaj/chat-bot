@@ -1,2 +1,2 @@
 # chat-bot
-DNM
+Dynamic Memory Network
